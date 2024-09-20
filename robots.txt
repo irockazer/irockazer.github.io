@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://irockazer.github.io/sitemap.html.gz
+Sitemap: https://irockazer.github.io/app/sitemap.html.gz
+Sitemap: https://irockazer.github.io/assets/sitemap.html.gz
+Sitemap: https://irockazer.github.io/css/sitemap.html.gz
+Sitemap: https://irockazer.github.io/data/sitemap.html.gz
+Sitemap: https://irockazer.github.io/includes/sitemap.html.gz
+Sitemap: https://irockazer.github.io/item/sitemap.html.gz
+Sitemap: https://irockazer.github.io/src/sitemap.html.gz
